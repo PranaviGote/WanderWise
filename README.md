@@ -1,6 +1,10 @@
 # WanderWise
-Proposed Solution: A personalized travel planner offering itineraries, real-time updates, and sustainable travel options. 
-How it Addresses the Problem: Simplifies travel planning by personalizing it, optimizing for budget, and promoting sustainable choices.
+
+Proposed Solution
+A personalized travel planner offering itineraries, real-time updates, and sustainable travel options. 
+
+How it Addresses the Problem
+Simplifies travel planning by personalizing it, optimizing for budget, and promoting sustainable choices.
 
 Technologies to be Used:
 HTML, CSS, JavaScript for front-end.
